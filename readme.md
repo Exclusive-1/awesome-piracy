@@ -1153,6 +1153,7 @@ premium services
 - [forcoder](https://forcoder.su/) Ebooks & Elearning For Programming
 
 ## Courses and Tutorials
+- [Freesoff](https://freesoff.com/) Free Courses, Softwares and very useful methods. Best forum for sharing free stuff.
 - [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
 - [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 - [FreeTutorials.eu](https://www.freetutorials.eu/) Lots of Udemy courses for free; Has Adblock detector
